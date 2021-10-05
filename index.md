@@ -1,6 +1,6 @@
 ## Patent Analysis
 
-This projects focuses on analysing the structure of patents.
+This project focuses on analysing the structure of patents.
 
 ### Topics
 
